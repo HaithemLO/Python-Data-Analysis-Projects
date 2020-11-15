@@ -1,7 +1,7 @@
 import pandas as  pd
 import numpy as np
 
-df = pd.read_csv (r'C:\Users\haith\Desktop\Programming Stuff\Python\Projects\Data Analysis with Python Projects\Demographic Data Analyzer\adult.data.csv')
+df = pd.read_csv (r'adult.data.csv')
 
 
 #Finds out how many people are in each race
