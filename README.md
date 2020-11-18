@@ -7,3 +7,7 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
 And calculates the amount of people in each race/average age of males/percent of people who have bachelors/etc/etc
 
 Medical analysis-Analyses the data from 70000 medical checkups and shows corraltions between different illness/ lifestyle choices
+
+Page Views-Vislaizes the number of page views Freecodecamp.org gets each month/year
+
+sea level- Pridcts the average global sea level using real life data
